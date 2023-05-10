@@ -2,6 +2,7 @@
 This repository contains the code for Comparing Deep Learning and Classical Computer Vision for Semantic Segmentation: A comprehensive analysis of cutting-edge techniques and algorithms for precise object segmentation in computer vision tasks. This work was done under the Computer Vision course at IIT Jodhpur.
 
 Kindly find the Youtube video link [here](url). Explaining our approach and results.
+
 Also find [here](url) the detailed report of the project.
 
 # Steps to run the code and reproduce our results
