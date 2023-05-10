@@ -8,5 +8,5 @@ You need to install the PASCAL-POC dataset into the drive folder, and then seper
 
 Then simply run all the cells in the colab file.
 
-#Approach used and our motivation behind the project
+# Approach used and our motivation behind the project
 Semantic segmentation is a fundamental task in computer vision that involves assigning a label to each pixel in an image. In recent years, deep learning methods have achieved state-of-the-art performance in semantic segmentation tasks. However, classical computer vision techniques are still widely used and offer several advantages over deep learning methods in certain scenarios. In this project, we aim to conduct a comparative analysis of deep learning and classical computer vision techniques for semantic segmentation
