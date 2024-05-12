@@ -3,7 +3,7 @@ This repository contains the code for Comparing Deep Learning and Classical Comp
 
 Kindly find the Youtube video link [here](https://youtu.be/yz1Pdxn6NG8). Explaining our approach and results.
 
-Also find [here](url) the detailed report of the project.
+Also find [here](https://github.com/chakshu-dhannawat/Semantic-Segmentation-CV-Project/blob/main/CV_Semantic_Segmentation.pdf) the detailed report of the project.
 
 # Steps to run the code and reproduce our results
 You need to install the PASCAL-POC dataset into the drive folder, and then seperately downliad the DRIVE dataset(to be able to run the retinal image segmentation) And approptiately change the paths in the code.
